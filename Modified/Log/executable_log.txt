@@ -1,0 +1,17 @@
+PS C:\Users\CGLam\OneDrive - Northwestern University\MSDS 431\Wk9_Assignment\Final> ./goroutines_pipeline    
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!
+Success!

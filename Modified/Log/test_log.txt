@@ -1,0 +1,9 @@
+PS C:\Users\CGLam\OneDrive - Northwestern University\MSDS 431\Wk9_Assignment\Final> go test ./image_processing -v
+=== RUN   TestResize
+--- PASS: TestResize (0.05s)
+=== RUN   TestWriteImage
+--- PASS: TestWriteImage (0.02s)
+=== RUN   TestReadImage
+--- PASS: TestReadImage (0.04s)
+PASS
+ok      goroutines_pipeline/image_processing    0.558s
